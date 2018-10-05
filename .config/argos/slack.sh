@@ -12,5 +12,4 @@ echo "BRB 20m | iconName=emblem-important bash='/home/rclarke/projects/slack-aut
 echo "Do Not Disturb | iconName=edit-delete bash='/home/rclarke/projects/slack-automations/bin/slack-do-not-disturb.sh' terminal=false"
 echo "Customer call | iconName=call-start bash='/home/rclarke/projects/slack-automations/bin/slack-customer-call.sh' terminal=false"
 echo "Lunch | iconName=x-office-calendar bash='/home/rclarke/projects/slack-automations/bin/slack-lunch.sh' terminal=false"
-echo "Thursday afternoon | iconName=face-smile bash='/home/rclarke/projects/slack-automations/bin/slack-thursday.sh' terminal=false"
 echo "End work | iconName=system-log-out bash='/home/rclarke/projects/slack-automations/bin/slack-end-of-work.sh' terminal=false"
