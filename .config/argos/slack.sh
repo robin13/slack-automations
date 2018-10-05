@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+echo "Slack"
+echo "---"
+echo "Clear online |iconName=user-available bash='/home/rclarke/projects/slack-automations/bin/slack-clear-online.sh' terminal=false"
+echo "Clear offline | iconName=user-offline bash='/home/rclarke/projects/slack-automations/bin/slack-clear-offline.sh' terminal=false"
+echo "Start work| iconName=go-home  bash='/home/rclarke/projects/slack-automations/bin/slack-start-work.sh' terminal=false"
+echo "Meditate | iconName=face-cool bash='/home/rclarke/projects/slack-automations/bin/slack-meditate.sh' terminal=false"
+echo "Concentration 15m | iconName=emblem-important bash='/home/rclarke/projects/slack-automations/bin/slack-concentration.sh 15' terminal=false"
+echo "Concentration 30m | iconName=emblem-important bash='/home/rclarke/projects/slack-automations/bin/slack-concentration.sh 30' terminal=false"
+echo "BRB 20m | iconName=emblem-important bash='/home/rclarke/projects/slack-automations/bin/slack-brb.sh 20' terminal=false"
+echo "Do Not Disturb | iconName=edit-delete bash='/home/rclarke/projects/slack-automations/bin/slack-do-not-disturb.sh' terminal=false"
+echo "Customer call | iconName=call-start bash='/home/rclarke/projects/slack-automations/bin/slack-customer-call.sh' terminal=false"
+echo "Lunch | iconName=x-office-calendar bash='/home/rclarke/projects/slack-automations/bin/slack-lunch.sh' terminal=false"
+echo "Thursday afternoon | iconName=face-smile bash='/home/rclarke/projects/slack-automations/bin/slack-thursday.sh' terminal=false"
+echo "End work | iconName=system-log-out bash='/home/rclarke/projects/slack-automations/bin/slack-end-of-work.sh' terminal=false"
