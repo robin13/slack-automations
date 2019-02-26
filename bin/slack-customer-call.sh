@@ -6,7 +6,7 @@ echo $$ > $PID_FILE
 
 slack status edit \
   --text "On a customer call" \
-  --emoji ":phone:"
+  --emoji ":zoom:"
 slack snooze start  60
 sleep 60m
 
