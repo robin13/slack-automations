@@ -1,5 +1,6 @@
 #!/bin/bash
 
+slack snooze end
 slack status clear
 slack presence active
 slack chat send \
